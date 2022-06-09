@@ -52,7 +52,7 @@ implementation 'org.springframework.boot:spring-boot-starter-validation'
 ```
 
 
-🔥 After adding the above total, **register our registration!** 🔥
+🔥 After adding all of the above dependencies, **register our dependencies!** 🔥
 
 > *위의 의존성을 모두 추가한 후, 우리의 의존성을 등록해주세요!*
 
