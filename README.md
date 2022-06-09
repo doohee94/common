@@ -52,6 +52,27 @@ implementation 'org.springframework.boot:spring-boot-starter-validation'
 ```
 
 
+🔥 After adding the above total, **register our registration!** 🔥
+
+> *위의 의존성을 모두 추가한 후, 우리의 의존성을 등록해주세요!*
+
+In <u>pom.xml</u>
+
+```text
+<dependency>
+  <groupId>io.github.doohee94</groupId>
+  <artifactId>common</artifactId>
+  <version>1.0</version>
+</dependency>
+```
+
+In <u>build.gradle</u>
+
+```text
+implementation 'io.github.doohee94:common:1.0'
+```
+
+
 
 ### Functions
 
